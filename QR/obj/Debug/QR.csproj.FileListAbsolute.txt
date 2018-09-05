@@ -1,0 +1,25 @@
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\QR.exe.config
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\QR.exe
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\QR.pdb
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\MaterialSkin.dll
+C:\Users\Alfredo\Desktop\QR\QR\obj\Debug\QR.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\QR\QR\obj\Debug\QR.QRForm.resources
+C:\Users\Alfredo\Desktop\QR\QR\obj\Debug\QR.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\QR\QR\obj\Debug\QR.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\QR\QR\obj\Debug\QR.exe
+C:\Users\Alfredo\Desktop\QR\QR\obj\Debug\QR.pdb
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\BarcodeLib.dll
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\QRCoder.dll
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\UnityEngine.dll
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\zxing.dll
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\zxing.presentation.dll
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\zxing.pdb
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\zxing.xml
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\zxing.presentation.pdb
+C:\Users\Alfredo\Desktop\QR\QR\bin\Debug\zxing.presentation.xml
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\QR\QR\bin\Debug\QR.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\QR\QR\obj\Debug\QR.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\QR\QR\obj\Debug\QR.pdb
