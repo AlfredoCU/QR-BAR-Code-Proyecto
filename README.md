@@ -1,4 +1,4 @@
-# QR-BAR-Code-Proyecto
+# QR-BAR-Code.
 
 - Programa para generar códigos QR y códigos de barras.
 
